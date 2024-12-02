@@ -8,7 +8,7 @@
 
 ---
 
-## שחקו עכשיו!
+## שחקו עכשיו
 לחצו על הקישור הבא כדי לשחק במשחק דרך Itch.io:
 [שחקו במשחק ב-Itch.io](https://tomgoz.itch.io/coreprocesstask)
 
